@@ -19,9 +19,8 @@ Make sure the following are installed on your system:
 - `ccrypt`
 
 On Ubuntu/Debian, you can install them with:
-`'bash
-sudo apt update
-sudo apt install openssl ccrypt
+`sudo apt update`
+`sudo apt install openssl ccrypt`
 
 
 ---
