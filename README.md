@@ -19,9 +19,12 @@ Make sure the following are installed on your system:
 - `ccrypt`
 
 On Ubuntu/Debian, you can install them with:
-```bash
+`'bash
 sudo apt update
 sudo apt install openssl ccrypt
+
+
+---
 
 ## 🚀 Usage
 1. Clone this repository:
@@ -29,6 +32,7 @@ sudo apt install openssl ccrypt
    git clone https://github.com/yourusername/password-generator.git
    cd password-generator
 
+---
 
 ## 📂 Output
 - Displays **3 random passwords** in the terminal.
